@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-scikit-learn==1.7.2
+scikit-learn==1.5.0
 matplotlib
 plotly
 pydeck
